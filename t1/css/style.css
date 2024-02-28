@@ -1,0 +1,11 @@
+body{
+    width: auto;
+    height: auto;
+}
+
+#principal{
+    text-align: center;
+    background-color: rgb(230, 214, 1);
+    color: #ffffff;
+    text-shadow: 5px 5px 5px #000000;
+}
